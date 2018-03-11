@@ -1,7 +1,7 @@
 # magic-brain-api
 
 ## How to run this project:
-### The Front-end of "magic-brain" project.
+### The Backend of "magic-brain" project.
 * Clone this repository
 * Run npm install 
 * Run npm start
